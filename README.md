@@ -1,3 +1,7 @@
+<details>
+<summary>Next.js</summary>
+<div markdown="1">
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +38,19 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+</div>
+</details>
+
+## BLOG TO DO LIST
+ - [ ] 터미널 느낌의 디자인
+ - [ ] header에는 이동 탭
+ - [ ] footer엔 follow me on github
+ - [ ] posts에는 markdown 불러올 수 있게
+ - [ ] 반응형 웹
+ - [ ] 야간모드 낮모드 알아서
+ - [ ] 드래그하면 반대 색으로
+  
+  ### @24.12.21
+  - project 생성
+  - 
