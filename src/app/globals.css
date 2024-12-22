@@ -3,3 +3,22 @@ html {
   color: white;
   font-size: 13px;
 }
+
+.content {
+  padding: 1rem 10px;
+}
+
+.intro-title {
+  text-align: justify;
+  max-width: 800px; 
+  margin: auto;
+  margin-bottom: 1rem;
+}
+
+.introduce {
+  text-align: justify;
+    max-width: 800px; 
+    margin: 0 auto;
+    hyphens: auto;
+    line-height: 1.6;
+}
