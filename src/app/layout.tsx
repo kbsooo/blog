@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 };
 
 const firaCode = Fira_Code({
-  weight: ['300'],
+  weight: ['300', '400', '700'],
   subsets: ['latin'],
 });
 

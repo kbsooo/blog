@@ -1,0 +1,11 @@
+.content {
+  max-width: 800px;
+  margin: auto;
+}
+
+.md {
+  text-align: justify;
+  margin: 0 1rem;
+  hyphens: auto;
+  line-height: 1.6;
+}
