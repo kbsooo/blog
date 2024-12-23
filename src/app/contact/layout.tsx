@@ -1,5 +1,14 @@
-export default function Layout(props: any) {
+export default function Layout({
+  children,
+}: {
+  children: React.ReactNode
+}) {
   return (
-    <h1>layout</h1>
+    <html lang="en">
+      <body>
+        {/* 레이아웃 UI */}
+        <main>{children}</main>
+      </body>
+    </html>
   )
 }
