@@ -6,7 +6,7 @@ export default function Footer() {
     <div className={styles.container}>
       <footer className={styles.footer}>
         <div className={styles.line}></div>
-        <p className={styles.p}>© 2024 <Link href="https://github.com/kbsooo">KBSOO</Link></p>
+        <p className={styles.p}>© 2024 <Link className={styles.a} href="https://github.com/kbsooo">KBSOO</Link></p>
       </footer>
     </div>
   )
