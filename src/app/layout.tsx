@@ -5,7 +5,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-  title: "kbsoo/home/",
+  title: "kbsoo/home",
   description: "KBSOO's blog",
 };
 

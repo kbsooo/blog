@@ -5,20 +5,20 @@ html {
 }
 
 .content {
-  padding: 1rem 10px;
+  max-width: 800px;
+  margin: auto;
 }
 
 .intro-title {
   text-align: justify;
-  max-width: 800px; 
-  margin: auto;
+  margin: auto 1rem;
   margin-bottom: 1rem;
+  padding: 100;
 }
 
 .introduce {
   text-align: justify;
-    max-width: 800px; 
-    margin: 0 auto;
-    hyphens: auto;
-    line-height: 1.6;
+  margin: 0 1rem;
+  hyphens: auto;
+  line-height: 1.6;
 }
