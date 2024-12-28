@@ -1,0 +1,26 @@
+.content {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 0 20px;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+.posts {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+}
+
+.posts span {
+  transition: color 0.3s ease;
+}
+
+.posts span:hover {
+  background-color: white;
+  color: black;
+}
